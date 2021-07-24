@@ -61,6 +61,7 @@ p {
 
 .content-container {
   padding: 60px 20px;
+  background: var(--secondary-color);
 }
 
 .content h1 {
@@ -108,10 +109,6 @@ p {
 
 .project-desciption {
   padding: 120px 60px;
-}
-
-.logo {
-  max-height: 40px;
 }
 
 nav {
