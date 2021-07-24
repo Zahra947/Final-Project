@@ -108,18 +108,9 @@ p {
 }
 
 .project-desciption {
-  padding: 120px 60px;
+  padding: 0px 60px;
 }
 
-.content a {
-  color: black;
-  text-align: center;
-  font-family: var(--heading-font-family);
-  font-weight: bold;
-  font-size: 24px;
-  text-decoration: none;
-  margin: 0% auto;
-}
 nav {
   padding: 20px 0;
 }
